@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sinan ÇIVAK</h1>
 <h3 align="center">A passionate Backend developer from</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinancvk0&label=Profile%20views&color=0e75b6&style=flat" alt="sinancvk0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinancvk0" alt="sinancvk0" /></a> </p>
